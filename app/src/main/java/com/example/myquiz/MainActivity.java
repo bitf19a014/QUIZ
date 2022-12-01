@@ -141,7 +141,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             array[i] = temp;
         }
     }
-
-
-
 }
