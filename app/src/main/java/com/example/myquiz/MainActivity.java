@@ -47,6 +47,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         totalQuestionsTextView.setText("Total Questions: "+totalQuestions);
 
         loadNewQuestion();
+
+
     }
 
     @Override
